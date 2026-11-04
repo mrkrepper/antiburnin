@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Антивигорання</string>
+    <string name="service_description">Затемнює яскраві кнопки TikTok, поки він відкритий, щоб екран не вигорав.</string>
+</resources>
